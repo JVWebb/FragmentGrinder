@@ -1,0 +1,3 @@
+displayName = Easier Lunar Fragment Grinding
+author = Stonga
+version = 0.1
