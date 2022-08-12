@@ -1,1 +1,3 @@
-Easier Lunar Fragment Grinding is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Easier Lunar Fragment Grinding.
+
+Makes vanilla monoliths cause their enemies to spawn when turned on, and makes those enemies spawn lunar fragments.
